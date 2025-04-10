@@ -35,7 +35,7 @@ const adarsh = {
 ## 📌 Highlighted Projects
 
 <div align="center">
-  <a href="https://github.com/kumaradarsh2/project-repo">
+  <a href="https://github.com/kumaradarsh2/news-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kumaradarsh2&repo=news-app&theme=tokyonight" />
   </a>
 </div>
