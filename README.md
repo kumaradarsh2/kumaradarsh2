@@ -61,12 +61,14 @@ graph LR
     G --> H
 ```
 
+<!---
 ## 🔮 Future Skills Roadmap
 
 - 🏗️ **Backend Architecture** — Building scalable systems
 - 🗄️ **Database Optimization** — Performance tuning
 - 🔌 **API Design** — RESTful and GraphQL
 - 🧩 **Microservices** — Service-oriented architecture
+--->
 
 ## 📊 GitHub Stats
 
@@ -79,18 +81,18 @@ graph LR
   <img src="https://komarev.com/ghpvc/?username=kumaradarsh2&color=blueviolet&style=flat-square" alt="Profile views" />
 </div>
 
-<!--
+
 ## 🔗 Connect With Me
 When you have social links, uncomment this section!
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/kumaradarsh2">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourusername">
+  <a href="https://twitter.com/kumar_adarsh2">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:adarshkr241@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
