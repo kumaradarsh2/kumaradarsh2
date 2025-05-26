@@ -63,7 +63,7 @@ const adarsh = {
 -  **API Design** — RESTful and GraphQL
 -  **Microservices** — Service-oriented architecture
 
-<!---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -74,7 +74,7 @@ const adarsh = {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kumaradarsh2&color=blueviolet&style=flat-square" alt="Profile views" />
 </div>
---->
+
 
 ## 🔗 Connect With Me
 
