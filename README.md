@@ -69,6 +69,8 @@ const adarsh = {
   <img src="https://komarev.com/ghpvc/?username=kumaradarsh2&color=blueviolet&style=flat-square" alt="profile views" />
 </div> -->
 
+[![An image of @kumaradarsh2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kumaradarsh2)](https://holopin.io/@kumaradarsh2)
+
 <h2 align="left">Connect with me:</h3>
 <p align="left">
 
