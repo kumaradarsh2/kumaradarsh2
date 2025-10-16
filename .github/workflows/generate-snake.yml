@@ -1,39 +1,28 @@
-# GitHub Action for generating a contribution graph with a snake eating the contributions
 name: Generate Snake
 
 on:
-  # This runs automatically every 6 hours
   schedule:
     - cron: "0 */6 * * *"
-  
-  # This allows you to manually run the workflow from the Actions tab
   workflow_dispatch:
 
 jobs:
   build:
-    # Write Permissions
+    # This block grants the action write permissions to the repository
     permissions:
-      content: write
-
+      contents: write
+      
     runs-on: ubuntu-latest
     steps:
-      # Checks out the repository so the action can push the generated snake SVG to it
       - uses: actions/checkout@v3
 
-      # Generates the snake SVG
       - uses: Platane/snk@v3
         id: snake-gif
         with:
-          # Your GitHub username
           github_user_name: ${{ github.repository_owner }}
-          
-          # A list of files to generate
-          # The dark mode version is specified with a query parameter
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Pushes the generated SVG file to the repository
       - name: Push generated files
         run: |
           git config --global user.name "github-actions[bot]"
