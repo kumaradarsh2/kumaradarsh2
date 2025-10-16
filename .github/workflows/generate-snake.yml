@@ -11,6 +11,10 @@ on:
 
 jobs:
   build:
+    # Write Permissions
+    permissions:
+      content: write
+
     runs-on: ubuntu-latest
     steps:
       # Checks out the repository so the action can push the generated snake SVG to it
